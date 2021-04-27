@@ -1,0 +1,59 @@
+name: chat
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^5.0.0
+  firebase_core: ^1.0.3
+  firebase_auth: ^1.1.0
+  cloud_firestore: ^1.0.5
+  firebase_database: ^6.1.2
+  google_sign_in: ^5.0.2
+  firebase_dynamic_links: ^2.0.2
+  flutter_login_facebook: ^1.0.1
+
+  flutter_material_color_picker: ^1.0.5
+  path_provider: ^2.0.1
+  cupertino_icons: ^1.0.2
+  google_fonts: ^2.0.0
+  http: ^0.13.1
+ 
+  
+  
+  
+
+  hive: ^2.0.3
+  hive_flutter: ^1.0.0
+
+  cached_network_image: ^3.0.0-nullsafety
+  date_time_picker: ^2.0.0
+  image_picker: ^0.7.4
+  bubble: ^1.2.1
+  
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+
+  uses-material-design: true
+  assets:
+    - assets/social_logos/google.png
+    - assets/social_logos/facebook.png
+    - assets/default_avatars/male.jpg
+    - assets/default_avatars/female.jpg
+
+
+  
