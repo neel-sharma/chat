@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>828605791771-kggtsvp543tccgmda4iokrjmqiaekiom.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.828605791771-kggtsvp543tccgmda4iokrjmqiaekiom</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>828605791771-q5q0kuu4c5ej05gara1462a2ulvgb3bm.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBiBPU7vgmdUPjUiubBRlSW7aHxCZZ3mFg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>828605791771</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.skye.chat.chat</string>
+	<key>PROJECT_ID</key>
+	<string>chat-b0c26</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chat-b0c26.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:828605791771:ios:4aabca7706c579cbf5c2be</string>
+</dict>
+</plist>
